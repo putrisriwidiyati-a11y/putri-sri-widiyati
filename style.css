@@ -1,12 +1,12 @@
 body {
-  background-color: #FFFFE0; /* warna kuning cerah */
+  background-color: #87CEEB; /* warna kuning cerah */
   font-family; Arial,sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
   color: #191970; /* Warna teks utama (biru Gelap) */
 }
 
 .kartu-profil {
-  width: 200px;
-  margin:50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
+  width: 100px;
+  margin:40px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
   padding 20px;
   background-color: green;
   border-radius: 15px; /* membuat sudut menjadi melengkung */
